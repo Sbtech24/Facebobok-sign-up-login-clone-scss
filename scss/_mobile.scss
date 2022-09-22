@@ -1,0 +1,21 @@
+@media(max-width:800px){
+    .main{
+        flex-direction: column;
+      
+    }
+    section{
+        .main{
+            article{
+                padding-bottom: 0px;
+            }
+        }
+    }
+    
+    img{
+        margin: 0; 
+    }
+    
+    .Languages{
+        font-size: 10px;
+    }
+}
